@@ -1,0 +1,528 @@
+
+
+
+
+
+.nav-link.js-scroll-trigger {
+    color: #fff;
+    background: transparent;
+}
+
+header.head {
+    text-align: center;
+    color: #fff;
+    background-image: url(../img/banner.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+}
+
+.text {
+    padding-top: 150px;
+}
+
+.underline {
+    border: 1px solid purple;
+    width: 22%;
+    display: block;
+    margin: 19px auto 14px;
+}
+.text p {
+    line-height: 21px;
+    padding-bottom: 19px;
+}
+
+.btn-f {
+    background: #ed145b;
+    border: 1px solid #ed145b;
+    padding: 10px 20px;
+    border-radius: 28px;
+    margin-bottom: 181px;
+}
+
+
+
+.about-pic {
+    width: 94%;
+}
+
+.text-A h2 {
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 380;
+    margin: 0 96px;
+}
+.underline-1 {
+    border: 1px solid #ed145b;
+    width: 30%;
+    display: block;
+    margin: 23px 91px 16px;
+}
+.text-A p{
+	margin: 21px 89px auto;
+}
+
+.text-B {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    padding: 13px;
+    font-size: 38px;
+    font-weight: 300;
+    font-style: italic;
+}
+.underline-3 {
+    border: 1px solid #ed145b;
+    width: 30%;
+    display: block;
+    margin: 16px 298px;
+}
+
+.one {
+    width: 100%;
+    height: 164px;
+    padding: 21px 68px 0px 100px;
+}
+.text-m{
+	margin-top: 20px;
+	padding: 30px;
+	width: 100%;
+	background-image: url(../img/banner.png);
+	background-size: cover;
+	background-position: center;
+}
+.text-m h1 {
+    text-align: center;
+    display: block;
+}
+.text-m p {
+    width: 57%;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+.bg-light{
+	background-color: grey;
+}
+h2.price {
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 400;
+}
+.underline-4 {
+    border: 1px solid #ed145b;
+    width: 36%;
+    display: block;
+    margin: 13px auto;
+}
+.deal {
+    text-align: center;
+    position: relative;
+}
+.deal p {
+    margin-top: 28px;
+    line-height: 19px;
+}
+.deal2{
+	text-align: center;
+	position: relative;
+
+}
+.deal2 p {
+    margin-top: 28px;
+    line-height: 19px;
+}
+.deal3{
+	text-align: center;
+	position: relative;
+
+}
+.deal3 p {
+    margin-top: 28px;
+    line-height: 19px;
+}
+.deal4{
+	text-align: center;
+	position: relative;
+
+}
+.deal4 p {
+    margin-top: 28px;
+    line-height: 19px;
+}
+button.btn2 {
+    position: absolute;
+    top: 132px;
+    left: 31%;
+    border: 1px solid #fff;
+    background: #f3eded;
+    border-radius: 20px;
+    padding: 11px 21px;
+}
+button.btn {
+    border: 1px solid #ed145b;
+    padding: 10px 25px;
+    color: #fff;
+    background: #ed145b;
+    border-radius: 31px 0;
+}
+.icon-t {
+    float: right;
+    padding: 0 23px;
+    margin: -58px 0px;
+    color: #ed145b;
+}
+.t {
+    color: black;
+}
+.last {
+    margin: 63px 11px;
+}
+h2.join-t {
+    margin: 46px 74px 37px;
+}
+
+span.buton {
+    float: right;
+    margin: -80px -253px;
+    border: 1px solid #fff;
+    padding: 10px 41px;
+    border-radius: 27px;
+    background-color: #fff;
+}
+.pictures {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+.underline-7 {
+    border: 1px solid #ed145b;
+    width: 30%;
+    display: block;
+    margin: 13px auto;
+}
+.image-hover {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+.image-hover-content {
+    position: absolute;
+    background-color: rgba(254,209,54,.9);
+    width: 100%;
+    height: 100%;
+    top: 0;
+    right: -100%;
+}
+.image-hover-content h5 {
+    position: absolute;
+    color: #fff;
+    top: 34%;
+    left: 15%;
+}
+.image-hover-content p {
+    position: absolute;
+    top: 50%;
+    left: 8%;
+    color: #fff;
+}
+.image-hover:hover .image-hover-content{
+	right: 0;
+}
+.last-one {
+    padding: 6px 15px;
+    margin: 9px 0;
+}
+.ad {
+    text-align: center;
+    display: block;
+    margin-top: 131px;
+    margin-bottom: 10px;
+}
+.blank {
+    background-image: url(../img/banner.png);
+    background-size: cover;
+    background-position: center;
+    margin-top: -78px;
+}
+.f {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    color: #fff;
+    padding: 50px;
+}
+.underline-A {
+    border: 1px solid #ed145b;
+    width: 30%;
+    display: block;
+    margin: 0px 309px 21px auto;
+}
+.f-p {
+    text-align: center;
+    width: 72%;
+    margin: 35px 78px 125px;
+    color: #fff;
+}
+.love {
+    font-size: 33px;
+    font-style: italic;
+    font-weight: 300;
+}
+.love-p {
+    width: 65%;
+    margin-bottom: 76px;
+}
+.underline-B {
+    border: 1px solid #ed145b;
+    display: block;
+    width: 30%;
+    margin: 19px 0;
+}
+
+
+/*Media query*/
+/*Mobile device*/
+
+@media (min-width: 320px) and (max-width: 500px){
+	.img-fluid{
+		width: auto;
+		height: auto;
+	}
+	.collapse {
+    display: inline-block;
+}
+.text-A h2 {
+    font-size: 26px;
+    font-style: italic;
+    font-weight: 380;
+    margin: -12px -9px;
+}
+.underline-1 {
+    border: 1px solid #ed145b;
+    width: 100%;
+    display: block;
+    margin: 20px -13px 16px;
+}
+.text-A p {
+    margin: 14px 8px auto 14px;
+}
+.underline-3 {
+    border: 1px solid #ed145b;
+    width: 100%;
+    display: block;
+    margin: 3px 2px;
+}
+.text-p {
+    margin: 9px 6px auto 19px;
+}
+.price {
+    margin-top: -95px;
+}
+.underline-4 {
+    border: 1px solid #ed145b;
+    width: 100%;
+    display: block;
+    margin: 20px auto;
+}
+button.btn2 {
+    position: absolute;
+    top: 130px;
+    left: 38%;
+    border: 1px solid #fff;
+    background: #d2c3c3;
+    border-radius: 20px;
+    padding: 11px 21px;
+}
+.deal {
+    text-align: center;
+    position: relative;
+    margin-bottom: 13px;
+}
+.deal2 {
+    text-align: center;
+    position: relative;
+    margin-bottom: 13px;
+}
+.deal3 {
+    text-align: center;
+    position: relative;
+    margin-bottom: 13px;
+}
+.deal4 {
+    text-align: center;
+    position: relative;
+    margin-bottom: 13px;
+}
+.icon-t {
+    float: right;
+    padding: 0 23px;
+    margin: -27px 0px;
+    color: #ed145b;
+}
+.join-t {
+    font-size: 14px;
+    color: #fff;
+}
+span.buton {
+    float: right;
+    margin: 0 0;
+    border: 1px solid #fff;
+    padding: 10px 41px;
+    border-radius: 27px;
+    background-color: #fff;
+}
+.f {
+    font-size: 23px;
+    display: block;
+    margin: -35px;
+    color: #fff;
+    padding: 50px;
+}
+.underline-A {
+    border: 1px solid #ed145b;
+    width: 100%;
+    display: block;
+    margin: 0px 309px 21px auto;
+}
+.f-p {
+    width: 72%;
+    margin: 23px 0;
+    color: #fff;
+}
+.underline-B {
+    border: 1px solid #ed145b;
+    display: block;
+    width: 100%;
+    margin: 19px 0;
+}
+.love-p {
+    width: 100%;
+    margin-bottom: 76px;
+}
+
+	
+}
+/*ipad/tablet*/
+@media (min-width: 500.01px) and (max-width: 768px){
+	.text-A h2 {
+    font-size: 19px;
+    font-style: italic;
+    font-weight: 380;
+    margin: 2px;
+}
+.underline-1 {
+    border: 1px solid #ed145b;
+    width: 100%;
+    display: block;
+    margin: 0;
+}
+.text-A p {
+    margin: 12px 0;
+    text-align: justify;
+}
+.underline-3 {
+    border: 1px solid #ed145b;
+    width: 100%;
+    display: block;
+    margin: 11px;
+}
+.text-p {
+    text-align: justify;
+    line-height: 15px;
+}
+.one {
+    width: auto;
+    height: 127px;
+    padding: 8px 58px;
+}
+.deal img {
+    width: 80%;
+}
+.last {
+    margin: 87px 12px;
+}
+.f {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    color: #fff;
+    padding: 39px;
+    font-size: 33px;
+}
+.underline-A {
+    border: 1px solid #ed145b;
+    width: 90%;
+    display: block;
+    margin: -3px 16px;
+}
+.f-p {
+    text-align: justify;
+    width: 79%;
+    margin: 35px 78px 125px;
+    color: #fff;
+}
+.love {
+    font-size: 21px;
+    font-style: italic;
+    font-weight: 300;
+}
+.underline-B {
+    border: 1px solid #ed145b;
+    display: block;
+    width: 100%;
+    margin: 19px 0;
+}
+.love-p {
+    width: 100%;
+    text-align: justify;
+}
+}
+/*laptop device*/
+@media (min-width: 768.1px) and (max-width: 1200px){
+	.one {
+    width: auto;
+    height: 127px;
+    padding: 4px 109px;
+}
+button.btn2 {
+    position: absolute;
+    top: 108px;
+    left: 31%;
+    border: 1px solid #fff;
+    background: #f3eded;
+    border-radius: 20px;
+    padding: 11px 21px;
+}
+.icon {
+    margin: 12px;
+}
+.icon-t {
+    float: right;
+    padding: 0 21px;
+    margin: -50px -2px;
+    color: #ed145b;
+}
+}
+/*laptop or other device*/
+@media (min-width: 1200.1px){
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
